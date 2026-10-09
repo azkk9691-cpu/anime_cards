@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cardpeach: #ffe8d6;
+  --color-infoblue: #2563eb;
+  --color-infonavy: #1e3a8a;
+}
